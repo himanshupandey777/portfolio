@@ -5,8 +5,8 @@ export const skills = [
   },
   {
     group: "Backend",
-    items: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
+    items: ["Node.js", "Express.js", "REST APIs", "JWT Authentication", "Socket.io"],
   },
   { group: "Database", items: ["MongoDB", "Mongoose", "MySQL"] },
-  { group: "Tools", items: ["Git", "GitHub", "Postman", "Gemini API"] },
+  { group: "Tools", items: ["Git", "GitHub", "Postman", "Gemini API", "Vercel", "Render"] },
 ];
