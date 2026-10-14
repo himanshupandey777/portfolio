@@ -16,7 +16,7 @@ export default function Hero() {
           MERN Stack Developer
         </h2>
         <p className="mt-5 max-w-lg text-slate-600 dark:text-slate-400">
-          I build full-stack web apps with authentication, REST APIs and AI
+          I build full-stack web apps in MERN with authentication, REST APIs and AI
           integration.
         </p>
 
